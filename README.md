@@ -11,6 +11,5 @@ go get -d github.com/ArkAngeL43/port-scanning
 # usages
 <br>
 ```go
-        port.GetOpenPorts(*flagTarget, port.PortRange{Start: *flagPort, End: *flagPortn})
-
+port.GetOpenPorts(*flagTarget, port.PortRange{Start: *flagPort, End: *flagPortn})
 ```
