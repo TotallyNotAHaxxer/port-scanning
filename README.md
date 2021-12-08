@@ -8,8 +8,8 @@ go get -d github.com/ArkAngeL43/port-scanning
 
 ```
 <br>
-# usages
 <br>
+
 ```
 port.GetOpenPorts(*flagTarget, port.PortRange{Start: *flagPort, End: *flagPortn})
 ```
