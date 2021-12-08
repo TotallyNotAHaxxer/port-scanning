@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kelvin-mai/go-port-scanner/port"
+	"github.com/ArkAngeL43/port-scanning/port"
 )
 
 var (
