@@ -1,3 +1,3 @@
-module github.com/kelvin-mai/go-port-scanner
+module github.com/ArkAngeL43/port-scanning
 
 go 1.14
