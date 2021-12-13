@@ -37,6 +37,7 @@ func main() {
 <br>
 
 ```
+Scanable list for port scanning currently avalible, more coming soon
 	7:    "echo",
 	20:   "ftp",
 	21:   "ftp",
