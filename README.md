@@ -35,7 +35,7 @@ func main() {
 
 ```
 <br>
-# current scanable ports 
+
 ```
 	7:    "echo",
 	20:   "ftp",
